@@ -9,7 +9,7 @@ GO
 -- Author:		Ricky
 -- Create date: 6/25/2013
 -- Description:	Create
--- Revision: 
+-- Revision: 1.0
 -- =============================================
 ALTER PROCEDURE [dbo].[Chart_Admin_Update_Event]
 	-- Add the parameters for the stored procedure here
